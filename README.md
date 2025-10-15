@@ -1,9 +1,5 @@
-🎓Second-year student | Bachelor course [![PSU](https://www.psu.ru)<a href="https://www.psu.ru" target="_blank">
-  <img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="40" height="40" />
-</a>
-
-
-
+🎓Second-year student | Bachelor course ![PSU](https://www.psu.ru)<a href="https://www.psu.ru" target="_blank">
+  <img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="40" height="40" /></a>
 ----------------------------------------------------------------------------------------------------
 <h>⚒️</h><br>
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)<br>
