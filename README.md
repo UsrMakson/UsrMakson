@@ -1,4 +1,4 @@
-🎓Second-year student | Bachelor course ![<span>PSU</span>](https://www.psu.ru)<a href="https://www.psu.ru" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+🎓Second-year student | Bachelor course <span>![PSU](https://www.psu.ru)</span><a href="https://www.psu.ru" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
   <img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="40" height="40" style="margin-right: 8px;" />
   <span style="font-size: 16px; color: #000;">Пермский государственный университет</span>
 </a>
