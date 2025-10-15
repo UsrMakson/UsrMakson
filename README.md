@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://www.psu.ru" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-  <a style="font-size: 32px; color: #000;">🎓Second-year student</t>
-    <img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="32" height="32" style="margin-right: 8px;" />
-    <t style="font-size: 32px; color: #000;">PSU Bachelor course</a>
+  <a style="font-size: 40px; color: #000;">🎓Second-year student</t>
+    <img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="30" height="30" style="margin-right: 10px;" />
+    <t style="font-size: 40px; color: #000;">PSU Bachelor course</a>
   </a>
 </div>
 <br>
