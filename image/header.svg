@@ -5,12 +5,11 @@
     </filter>
   </defs>
   <image 
-    filter="url(#blur)"
     href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82._%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81_%E2%84%965.jpg/500px-%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82._%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81_%E2%84%965.jpg"
     width="800" height="200" preserveAspectRatio="xMidYMid slice"/>
   <rect width="800" height="200" fill="rgba(255,255,255,0.6)"/>
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-size="24" fill="#1a365d" font-family="sans-serif">
-    Студент ПГНИУ — ФМКН
+    PSU student
   </text>
 </svg>
