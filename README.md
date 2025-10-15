@@ -1,15 +1,10 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82._%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81_%E2%84%965.jpg/800px-%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82._%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81_%E2%84%965.jpg" width="100%" alt="ПГНИУ"/>
-  
-  <br/>
-  
-  <a href="https://www.psu.ru" target="_blank">
-    <img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="60" height="60"/>
-  </a>
-  
-  <h2>Student PSU</h2>
+  <img src="./images/header.svg" alt="ПГНИУ баннер" width="100%"/>
+</div>
+  <text href="https://www.psu.ru" target="_blank">
+    <h2>Second-year student</h2><img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="60" height="60"/><h2>Bachelor course PSU</h2>
+  </text>
 
-  
   ![Profile Views](https://komarev.com/ghpvc/?username=UsrMakson&color=blue)
   
 </div>
