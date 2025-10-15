@@ -4,12 +4,32 @@
       <feGaussianBlur stdDeviation="8"/>
     </filter>
   </defs>
+
+  <!-- Размытое фоновое изображение -->
   <image 
+    filter="url(#blur)"
     href="https://ic.pics.livejournal.com/coshevka/11609488/3077549/3077549_900.jpg"
-    width="800" height="200" preserveAspectRatio="xMidYMid slice"/>
+    width="800" height="200"
+    preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Полупрозрачный оверлей -->
   <rect width="800" height="200" fill="rgba(255,255,255,0.6)"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="24" fill="#1a365d" font-family="sans-serif">
-    PSU student
-  </text>
+
+  <!-- Кликабельная группа: логотип + текст -->
+  <a xlink:href="https://www.psu.ru" target="_blank" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Логотип -->
+    <image
+      href="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png"
+      x="50" y="70"
+      width="60" height="60"/>
+
+    <!-- Текст -->
+    <text x="130" y="110"
+          font-size="24"
+          fill="#1a365d"
+          font-family="sans-serif"
+          dominant-baseline="middle">
+      Second-year student — Bachelor course PSU
+    </text>
+  </a>
 </svg>
