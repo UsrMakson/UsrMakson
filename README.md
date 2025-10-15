@@ -1,4 +1,4 @@
-<div align="center" style="background: linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), url('[ссылка-на-изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82._%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81_%E2%84%965.jpg/500px-%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82._%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81_%E2%84%965.jpg)'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 15px; margin: 20px 0;">
+<div align="center" style="background: linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82._%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81_%E2%84%965.jpg/500px-%D0%9F%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82._%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81_%E2%84%965.jpg'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 15px; margin: 20px 0;">
   <div style="backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; background: rgba(255, 255, 255, 0.1);">
     <div align="center">
       <a href="https://www.psu.ru" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
@@ -7,10 +7,6 @@
         <t style="font-size: 80px; color: #000;">PSU Bachelor course</a>
       </a>
       </div>
-    <br>
-    <div align="center">
-        ![Profile Views](https://komarev.com/ghpvc/?username=UsrMakson&color=blue)
-    </div>
   </div>
 </div>
 
@@ -45,3 +41,6 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsrMakson&layout=compact&theme=radical&hide_border=true)
   
 </div>
+    <div align="center">
+        ![Profile Views](https://komarev.com/ghpvc/?username=UsrMakson&color=blue)
+    </div>
