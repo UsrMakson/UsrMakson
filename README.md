@@ -1,8 +1,8 @@
-🎓Second-year student | Bachelor course ![PSU](https://www.psu.ru)<a href="https://www.psu.ru" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+🎓Second-year student | Bachelor course ![<span>PSU</span>](https://www.psu.ru)<a href="https://www.psu.ru" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
   <img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="40" height="40" style="margin-right: 8px;" />
   <span style="font-size: 16px; color: #000;">Пермский государственный университет</span>
 </a>
-----------------------------------------------------------------------------------------------------
+___________________________________________________________________________________________________
 <h>⚒️</h><br>
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)<br>
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br>
