@@ -1,4 +1,4 @@
-```Second-year student | Bachelor course ![PSU](https://www.psu.ru/)```
+~~~Second-year student | Bachelor course ![PSU](https://www.psu.ru/)~~~
 _____________________________________________________________________________________________________
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)<br>
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br>
