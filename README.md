@@ -1,4 +1,5 @@
-🎓Second-year student | Bachelor course [![PSU](https://img.shields.io/badge/ПГНИУ-PSU.ru-005baa?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDIuNUM2LjcxNSA0LjMyNSA0LjAyIDguNjk1IDQuMDIgMTIuMjVDNC4wMiAxNiAxMC4yIDE4LjUgMTIgMjAuNUMxNC4wMiAxOCAxOS45OSA2IDEyIDIuNVoiLz48L3N2Zz4=)](https://www.psu.ru)
+🎓Second-year student | Bachelor course [![ПГНИУ](https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png)](https://www.psu.ru)
+
 
 ----------------------------------------------------------------------------------------------------
 <h>⚒️</h><br>
