@@ -1,15 +1,19 @@
-<div align="center">
-  <a href="https://www.psu.ru" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-  <a3 style="font-size: 80px; color: #000;">🎓Second-year student</a3>
-    <img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="20" height="20" style="margin-right: 8px;" />
-    <t style="font-size: 80px; color: #000;">PSU Bachelor course</a>
-  </a>
-</div>
-<br>
-<div align="center">
+<div align="center" style="background: linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), url('ссылка-на-изображение'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 15px; margin: 20px 0;">
+  <div style="backdrop-filter: blur(10px); padding: 20px; border-radius: 10px; background: rgba(255, 255, 255, 0.1);">
+    <div align="center">
+      <a href="https://www.psu.ru" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+      <a3 style="font-size: 80px; color: #000;">🎓Second-year student</a3>
+        <img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="20" height="20" style="margin-right: 8px;" />
+        <t style="font-size: 80px; color: #000;">PSU Bachelor course</a>
+      </a>
+      </div>
+    <br>
+    <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=UsrMakson&color=blue)
+        ![Profile Views](https://komarev.com/ghpvc/?username=UsrMakson&color=blue)
   
+    </div>
+  </div>
 </div>
 
 ##
