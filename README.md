@@ -45,6 +45,3 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsrMakson&layout=compact&theme=radical&hide_border=true)
   
 </div>
-    <div align="center">
-        ![Profile Views](https://komarev.com/ghpvc/?username=UsrMakson&color=blue)
-    </div>
