@@ -1,7 +1,15 @@
-🎓Second-year student | Bachelor course <span>![PSU](https://www.psu.ru)</span><a href="https://www.psu.ru" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-  <img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="40" height="40" style="margin-right: 8px;" />
-  <span style="font-size: 16px; color: #000;">Пермский государственный университет</span>
-</a>
+🎓Second-year student | Bachelor course <span>![PSU](https://www.psu.ru)</span><div align="center">
+  <a href="https://www.psu.ru" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="40" height="40" style="margin-right: 8px;" />
+    <span style="font-size: 16px; color: #000;">Студент ПГНИУ</span>
+  </a>
+</div>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=UsrMakson&color=blue)
+  
+</div>
 ___________________________________________________________________________________________________
 <h>⚒️</h><br>
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)<br>
