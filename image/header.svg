@@ -27,14 +27,23 @@
   <rect width="1200" height="300" fill="rgba(255,77,79,0.5)"/>
 
   <!-- 5. Левая надпись -->
-  <text x="200" y="150"
+  <text x="250" y="150"
         font-family="Verdana, sans-serif"
         font-size="56"
         font-weight="bold"
         fill="url(#redGrad)"
         text-anchor="middle"
         dominant-baseline="middle">
-    MAXIM
+    Bachelor
+  </text>
+     <text x="250" y="200"
+        font-family="Verdana, sans-serif"
+        font-size="56"
+        font-weight="bold"
+        fill="url(#redGrad)"
+        text-anchor="middle"
+        dominant-baseline="middle">
+    course
   </text>
 
   <!-- 6. Герб по центру -->
@@ -43,14 +52,23 @@
          preserveAspectRatio="xMidYMid meet"/>
 
   <!-- 7. Правая надпись -->
-  <text x="1000" y="150"
+  <text x="950" y="150"
         font-family="Verdana, sans-serif"
         font-size="56"
         font-weight="bold"
         fill="url(#redGrad)"
         text-anchor="middle"
         dominant-baseline="middle">
-    KOCHKIN
+    Second-year
+  </text>
+     <text x="950" y="200"
+        font-family="Verdana, sans-serif"
+        font-size="56"
+        font-weight="bold"
+        fill="url(#redGrad)"
+        text-anchor="middle"
+        dominant-baseline="middle">
+    student
   </text>
 
   <!-- 8. Нижняя декоративная линия -->
