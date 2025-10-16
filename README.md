@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="./image/header.svg" alt="ПГНИУ баннер" width="100%"/>
+  <img src="./image/header.svg" alt="Header" width="100%"/>
 </div>
-  <text href="https://www.psu.ru" target="_blank">
-    <h2>Second-year student</h2><img src="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png" alt="ПГНИУ" width="60" height="60"/><h2>Bachelor course PSU</h2>
-  </text>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=UsrMakson&color=blue)
   
