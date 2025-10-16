@@ -1,131 +1,59 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  
-  <!-- ============================================ -->
-  <!-- БАННЕР ДЛЯ GITHUB ПРОФИЛЯ -->
-  <!-- Герб точно по центру между двух надписей -->
-  <!-- ============================================ -->
-  
+<svg width="1200" height="300"
+     viewBox="0 0 1200 300"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <!-- 1. Фоновое изображение PSU_bunner.jpg -->
   <defs>
-    <!-- Градиент для фона -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1"/>
-      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1"/>
+    <pattern id="bgImage" patternUnits="userSpaceOnUse"
+             width="1200" height="300">
+      <image xlink:href="https://raw.githubusercontent.com/UsrMakson/UsrMakson/main/image/PSU_bunner.jpg"
+             x="0" y="0" width="1200" height="300"
+             preserveAspectRatio="xMidYMid slice"/>
+    </pattern>
+
+    <!-- 2. Красный градиент для текста -->
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff4d4f"/>
+      <stop offset="50%" style="stop-color:#ff7875"/>
+      <stop offset="100%" style="stop-color:#ff4d4f"/>
     </linearGradient>
-    
-    <!-- Градиент для текста -->
-    <linearGradient id="txtGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#58a6ff"/>
-      <stop offset="50%" style="stop-color:#79c0ff"/>
-      <stop offset="100%" style="stop-color:#a5d6ff"/>
-    </linearGradient>
-    
-    <!-- Свечение -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
-  
-  <!-- Фон -->
-  <rect width="1200" height="300" fill="url(#bgGrad)"/>
-  
-  <!-- Декоративная сетка -->
-  <g opacity="0.05">
-    <line x1="0" y1="0" x2="1200" y2="300" stroke="#58a6ff" stroke-width="1"/>
-    <line x1="0" y1="300" x2="1200" y2="0" stroke="#58a6ff" stroke-width="1"/>
-    <line x1="600" y1="0" x2="600" y2="300" stroke="#58a6ff" stroke-width="1"/>
-    <line x1="0" y1="150" x2="1200" y2="150" stroke="#58a6ff" stroke-width="1"/>
-  </g>
-  
-  <!-- ============================================ -->
-  <!-- ЛЕВАЯ НАДПИСЬ (точно по центру левой трети) -->
-  <!-- x = 200 (это 1200/3 / 2 = 200) -->
-  <!-- ============================================ -->
-  <g id="leftText">
-    <text x="250" y="140" 
-          font-family="'JetBrains Mono', 'Consolas', monospace" 
-          font-size="64" 
-          font-weight="900" 
-          fill="url(#txtGrad)" 
-          text-anchor="middle" 
-          letter-spacing="3"
-          filter="url(#glow)">
-      Bachelor
-    </text>
-    <text x="250" y="180" 
-          font-family="'Segoe UI', Arial, sans-serif" 
-          font-size="18" 
-          fill="#8b949e" 
-          text-anchor="middle"
-          letter-spacing="4">
-      course
-    </text>
-  </g>
-  
-  <!-- ============================================ -->
-  <!-- ЦЕНТР - ГЕРБ (точно по центру баннера) -->
-  <!-- x = 500, width = 200 -->
-  <!-- Центр изображения = 500 + 200/2 = 600 ✓ -->
-  <!-- ============================================ -->
-  <g id="emblemContainer">
-    <!-- Декоративные круги вокруг герба -->
-    <circle cx="600" cy="150" r="115" fill="none" stroke="#58a6ff" stroke-width="1" opacity="0.2"/>
-    <circle cx="600" cy="150" r="105" fill="none" stroke="#79c0ff" stroke-width="1" opacity="0.3"/>
-    
-    <!-- Фоновый круг -->
-    <circle cx="600" cy="150" r="100" fill="#161b22" opacity="0.7"/>
-    
-    <!-- ВАШ ГЕРБ ЗДЕСЬ -->
-    <!-- ВАЖНО: Замените URL на путь к вашему изображению герба -->
-    <!-- Поддерживаемые форматы: PNG, JPG, SVG -->
-    <image x="500" y="50" width="200" height="200" 
-           xlink:href="https://github.com/UsrMakson/UsrMakson/blob/main/image/emblem.png"
-           preserveAspectRatio="xMidYMid meet"/>
-    
-    <!-- Если у вас нет герба, можно использовать иконку GitHub -->
-    <!-- Раскомментируйте следующую строку и закомментируйте строку выше -->
-    <!-- <image x="500" y="50" width="200" height="200" 
-           xlink:href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-           preserveAspectRatio="xMidYMid meet"/> -->
-  </g>
-  
-  <!-- ============================================ -->
-  <!-- ПРАВАЯ НАДПИСЬ (точно по центру правой трети) -->
-  <!-- x = 1000 (это 1200 - 200) -->
-  <!-- ============================================ -->
-  <g id="rightText">
-    <text x="950" y="140" 
-          font-family="'JetBrains Mono', 'Consolas', monospace" 
-          font-size="64" 
-          font-weight="900" 
-          fill="url(#txtGrad)" 
-          text-anchor="middle" 
-          letter-spacing="3"
-          filter="url(#glow)">
-      Second-year
-    </text>
-    <text x="950" y="180" 
-          font-family="'Segoe UI', Arial, sans-serif" 
-          font-size="18" 
-          fill="#8b949e" 
-          text-anchor="middle"
-          letter-spacing="4">
-      Student
-    </text>
-  </g>
-  
-  <!-- Декоративные полосы сверху и снизу -->
-  <rect x="0" y="0" width="1200" height="3" fill="url(#txtGrad)" opacity="0.5"/>
-  <rect x="0" y="297" width="1200" height="3" fill="url(#txtGrad)" opacity="0.5"/>
-  
-  <!-- Декоративные точки -->
-  <circle cx="50" cy="50" r="2" fill="#58a6ff" opacity="0.6"/>
-  <circle cx="1150" cy="50" r="2" fill="#58a6ff" opacity="0.6"/>
-  <circle cx="50" cy="250" r="2" fill="#58a6ff" opacity="0.6"/>
-  <circle cx="1150" cy="250" r="2" fill="#58a6ff" opacity="0.6"/>
-  
+
+  <!-- 3. Применяем фон -->
+  <rect width="1200" height="300" fill="url(#bgImage)"/>
+
+  <!-- 4. Полупрозрачная красная накладка для контраста -->
+  <rect width="1200" height="300" fill="rgba(255,77,79,0.5)"/>
+
+  <!-- 5. Левая надпись -->
+  <text x="200" y="150"
+        font-family="Verdana, sans-serif"
+        font-size="56"
+        font-weight="bold"
+        fill="url(#redGrad)"
+        text-anchor="middle"
+        dominant-baseline="middle">
+    MAXIM
+  </text>
+
+  <!-- 6. Герб по центру -->
+  <image x="500" y="50" width="200" height="200"
+         xlink:href="https://raw.githubusercontent.com/UsrMakson/UsrMakson/main/image/emblem.png"
+         preserveAspectRatio="xMidYMid meet"/>
+
+  <!-- 7. Правая надпись -->
+  <text x="1000" y="150"
+        font-family="Verdana, sans-serif"
+        font-size="56"
+        font-weight="bold"
+        fill="url(#redGrad)"
+        text-anchor="middle"
+        dominant-baseline="middle">
+    KOCHKIN
+  </text>
+
+  <!-- 8. Нижняя декоративная линия -->
+  <line x1="100" y1="280" x2="1100" y2="280"
+        stroke="#ff4d4f" stroke-width="2" opacity="0.7"/>
 </svg>
