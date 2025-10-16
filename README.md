@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/UsrMakson/UsrMakson/main/image/header.svg" alt="Header Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/UsrMakson/UsrMakson/main/images/header.svg" alt="Header Banner" width="100%"/>
 </div>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=UsrMakson&color=blue)
