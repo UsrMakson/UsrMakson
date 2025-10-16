@@ -83,7 +83,7 @@
     <!-- ВАЖНО: Замените URL на путь к вашему изображению герба -->
     <!-- Поддерживаемые форматы: PNG, JPG, SVG -->
     <image x="500" y="50" width="200" height="200" 
-           xlink:href="https://raw.githubusercontent.com/UsrMakson/UsrMakson/image/emblem.png"
+           xlink:href="https://github.com/UsrMakson/UsrMakson/blob/main/image/emblem.png"
            preserveAspectRatio="xMidYMid meet"/>
     
     <!-- Если у вас нет герба, можно использовать иконку GitHub -->
