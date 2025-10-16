@@ -10,7 +10,7 @@
 
   <!-- Фоновое изображение -->
   <image x="0" y="0" width="1200" height="300"
-         href="https://raw.githubusercontent.com/UsrMakson/UsrMakson/main/images/PSU_bunner.jpg"
+         href="/PSU_bunner.jpg"
          preserveAspectRatio="xMidYMid slice"/>
 
   <!-- Полупрозрачная накладка для контраста -->
@@ -19,7 +19,7 @@
 
   <!-- Эмблема в центре -->
   <image x="500" y="50" width="200" height="200"
-         href="https://raw.githubusercontent.com/UsrMakson/UsrMakson/main/images/emblem.png"
+         href="/emblem.png"
          preserveAspectRatio="xMidYMid meet"
          role="img"
          aria-label="Герб университета"/>
