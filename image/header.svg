@@ -17,19 +17,26 @@
 
   <!-- Кликабельная группа: логотип + текст -->
   <a xlink:href="https://www.psu.ru" target="_blank" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Логотип -->
-    <image
-      href="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png"
-      x="50" y="70"
-      width="60" height="60"/>
-
-    <!-- Текст -->
-    <text x="130" y="110"
+     <text x="130" y="110"
           font-size="24"
           fill="#1a365d"
           font-family="sans-serif"
           dominant-baseline="middle">
-      Second-year student — Bachelor course PSU
+      Second-year student
+    </text>
+    <!-- Логотип -->
+    <image
+      href="https://www.psu.ru/images/3/9/2/f/9/392f9e8f2384ada131e1be8574ccb49e86ea0199-500px-.png"
+      x="390" y="100"
+      width="60" height="60"/>
+
+    <!-- Текст -->
+    <text x="450" y="110"
+          font-size="24"
+          fill="#1a365d"
+          font-family="sans-serif"
+          dominant-baseline="middle">
+      Bachelor course PSU
     </text>
   </a>
 </svg>
