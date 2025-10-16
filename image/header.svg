@@ -7,9 +7,13 @@
   <defs>
     <pattern id="bgImage" patternUnits="userSpaceOnUse"
              width="1200" height="300">
-      <image xlink:href="https://raw.githubusercontent.com/UsrMakson/UsrMakson/main/image/PSU_bunner.jpg"
-             x="0" y="0" width="1200" height="300"
-             preserveAspectRatio="xMidYMid slice"/>
+      <image x="0" y="0" width="1200" height="300"
+         xlink:href="https://raw.githubusercontent.com/UsrMakson/UsrMakson/image/PSU_bunner.jpg"
+         preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Полупрозрачная накладка -->
+  <rect width="1200" height="300" fill="rgba(255,77,79,0.5)"/>
+
     </pattern>
 
     <!-- 2. Красный градиент для текста -->
@@ -48,7 +52,7 @@
 
   <!-- 6. Герб по центру -->
   <image x="500" y="50" width="200" height="200"
-         xlink:href="https://raw.githubusercontent.com/UsrMakson/UsrMakson/main/image/emblem.png"
+         xlink:href="https://raw.githubusercontent.com/UsrMakson/UsrMakson/image/emblem.png"
          preserveAspectRatio="xMidYMid meet"/>
 
   <!-- 7. Правая надпись -->
