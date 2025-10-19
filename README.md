@@ -1,3 +1,7 @@
+:speech_balloon:Contacts <br>
+![Reddit](https://www.reddit.com/user/Dull_Ear1381/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)  <br>Telegram - @makson_twink <br> maksim@psu.ru
+
+---
 <div align="center">
   <img src="https://raw.githubusercontent.com/UsrMakson/UsrMakson/main/images/header.svg" alt="Header Banner" width="100%"/>
 </div>
